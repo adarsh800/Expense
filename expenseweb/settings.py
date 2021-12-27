@@ -3,7 +3,6 @@ from pathlib import Path
 import os
 from decouple import config
 import django_heroku
-from unipath import Path
 from dj_database_url import parse as db_url
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
